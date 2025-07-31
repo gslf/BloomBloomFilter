@@ -1,7 +1,5 @@
 ﻿# BloomBloomFilter
-A C# implementation of Bloom Filters
-
----
+A C# implementation of Bloom Filters. Available on (NuGet)[https://www.nuget.org/packages/BloomBloomFilter]
 
 A Bloom filter is a data structure used to test if an element is a member of a set or not. It was invented by Burton Howard Bloom in 1970. The Bloom filter uses multiple hash functions to map the input data to a bit array. Let’s see together how it works. We’ll start with a bit of theory that helps to understand how it works, and then we’ll look at a direct example in C#.
 
